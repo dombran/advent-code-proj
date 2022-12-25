@@ -1,0 +1,1 @@
+/home/dombran/workspace/RUST_proj/adventcode_1/adv23/target/debug/adv23: /home/dombran/workspace/RUST_proj/adventcode_1/adv23/src/main.rs /home/dombran/workspace/RUST_proj/adventcode_1/adv23/src/s_buf.rs
